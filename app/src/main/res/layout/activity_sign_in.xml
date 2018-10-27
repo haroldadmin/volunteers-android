@@ -68,27 +68,25 @@
         <Button
             android:id="@+id/btn_reset_password"
             android:layout_width="fill_parent"
-            android:layout_height="15dp"
+            android:layout_height="wrap_content"
             android:background="@null"
             android:text="@string/forgot_password_button_text"
             android:textAllCaps="false"
-            android:textColor="#232323"
-            android:layout_marginBottom="10dp"/>
+            android:textColor="#232323"/>
 
         <Button
             android:id="@+id/btn_sign_up"
             android:layout_width="fill_parent"
-            android:layout_height="15dp"
+            android:layout_height="wrap_content"
             android:background="@null"
             android:text="@string/signup_text"
             android:textAllCaps="false"
-            android:textColor="#232323"
-            android:layout_marginBottom="10dp"/>
+            android:textColor="#232323"/>
 
         <Button
             android:id="@+id/btn_skip"
             android:layout_width="fill_parent"
-            android:layout_height="15dp"
+            android:layout_height="wrap_content"
             android:background="@null"
             android:text="@string/skip_login"
             android:textAllCaps="false"
